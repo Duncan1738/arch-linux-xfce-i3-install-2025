@@ -238,7 +238,7 @@ sudo reflector --country YOUR_COUNTRY --fastest 10 --save /etc/pacman.d/mirrorli
 
 ---
 
-## Section 04: Tips, Fixes, and FAQs 🪲
+## Section 04: Tips, Fixes, and FAQs 
 
 *Trimmed for brevity. Covers:*
 - Fixing no audio
