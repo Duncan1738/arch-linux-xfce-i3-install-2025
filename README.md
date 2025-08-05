@@ -256,7 +256,6 @@ MIT
 
 ## Credits
 
-This guide was written based on personal experience and community feedback. 
 
 ---
 
