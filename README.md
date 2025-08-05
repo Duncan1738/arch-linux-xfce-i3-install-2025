@@ -249,14 +249,4 @@ sudo reflector --country YOUR_COUNTRY --fastest 10 --save /etc/pacman.d/mirrorli
 ---
 
 ## License
-
-MIT
-
----
-
-## Credits
-
-
----
-
-Enjoy your new Arch Linux system! 🌟
+Enjoy your new Arch Linux system! 
