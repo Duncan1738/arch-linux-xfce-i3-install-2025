@@ -247,6 +247,4 @@ sudo reflector --country YOUR_COUNTRY --fastest 10 --save /etc/pacman.d/mirrorli
 - Network troubleshooting
 
 ---
-
-## License
 Enjoy your new Arch Linux system! 
