@@ -164,7 +164,7 @@ reboot
 
 ---
 
-## Section 02: Post-Installation Configuration 🌟
+## Section 02: Post-Installation Configuration 
 
 ### Step 01: Sync Time
 
