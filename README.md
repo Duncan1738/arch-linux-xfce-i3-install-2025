@@ -23,7 +23,7 @@ This guide is based on real-world experience installing Arch Linux on various sy
 
 ---
 
-## Section 01: Installing Arch Linux on Your Hardware 🚀
+## Section 01: Installing Arch Linux on Your Hardware 
 
 ### Step 01: Download Arch Linux ISO
 
