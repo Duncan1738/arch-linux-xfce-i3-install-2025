@@ -227,7 +227,7 @@ sudo reflector --country YOUR_COUNTRY --fastest 10 --save /etc/pacman.d/mirrorli
 
 ---
 
-## Section 03: Productivity Apps and Dev Tools 🧑‍💻
+## Section 03: Productivity Apps and Dev Tools 
 
 *Trimmed for brevity. Recommended apps include:*
 - Brave, Firefox
