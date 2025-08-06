@@ -253,4 +253,4 @@ For discussions, support, and memes, check out the [Arch Linux Reddit Community]
 
 ---
 
-**For the love of Linux and freedom. **
+**For the love of Linux and freedom.**
