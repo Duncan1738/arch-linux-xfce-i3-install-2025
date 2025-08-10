@@ -2,7 +2,7 @@
 
 # Arch Linux Installation with Xfce/i3 - Fast, Minimal, Powerful
 
-> A step-by-step guide for installing Arch Linux with Xfce4 and i3 Window Manager, optimized to save time and avoid unnecessary debugging. 
+> A step-by-step guide for installing Arch Linux with Xfce4 and i3 Window Manager, optimized to save time and avoid unnecessary debugging.
 
 ---
 
